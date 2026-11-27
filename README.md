@@ -7,6 +7,7 @@
   <p><em>"Trust, but verify &mdash; continuously, cryptographically, and without latency."</em></p>
   <p align="center">
     <a href="https://checkmateee.vercel.app"><img src="https://img.shields.io/badge/Live%20Console-Vercel-000000?style=for-the-badge&logo=vercel" alt="Live Console" /></a>
+    <a href="https://youtu.be/X4Xo_NdbKZg"><img src="https://img.shields.io/badge/Demo%20Video-YouTube-red?style=for-the-badge&logo=youtube" alt="Demo Video" /></a>
     <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/track4_validate.py"><img src="https://img.shields.io/badge/Track%204%20Validator-PASS%20100%25-22c55e?style=for-the-badge" alt="Validator" /></a>
     <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/track4_service.py"><img src="https://img.shields.io/badge/Post--Quantum-ML--KEM--768-2563eb?style=for-the-badge" alt="NIST PQC" /></a>
     <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/threat-model.json"><img src="https://img.shields.io/badge/Threat%20Model-RFC%20Compliant-f97316?style=for-the-badge" alt="Threat Model" /></a>
@@ -14,6 +15,7 @@
   </p>
   <p>
     <a href="https://checkmateee.vercel.app"><strong>🌐 Live SecOps Console</strong></a> &bull;
+    <a href="https://youtu.be/X4Xo_NdbKZg"><strong>🎬 Demo Video</strong></a> &bull;
     <a href="https://checkmateee.vercel.app/killswitch.html"><strong>⚡ Emergency Killswitch</strong></a> &bull;
     <a href="https://github.com/trivikramkalagi91-commits/CheckMate"><strong>GitHub Repository</strong></a> &bull;
     <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/CheckMate_Track4_Project_Brief.pdf"><strong>📄 2-Page Brief PDF</strong></a> &bull;
@@ -39,6 +41,7 @@ CheckMate is an enterprise-grade, post-quantum zero-trust identity and credentia
 
 | Surface | URL / Location | Purpose |
 |---|---|---|
+| **Demo Video Walkthrough** | [youtu.be/X4Xo_NdbKZg](https://youtu.be/X4Xo_NdbKZg) | High-definition product demo & architecture walkthrough |
 | **Live SecOps Console** | [checkmateee.vercel.app/console.html](https://checkmateee.vercel.app/console.html) | Executive telemetry, active identities, and zero-trust health |
 | **Emergency Killswitch** | [checkmateee.vercel.app/killswitch.html](https://checkmateee.vercel.app/killswitch.html) | 1-click global actor revocation & instant containment |
 | **PQC Crypto Inspector** | [checkmateee.vercel.app/security.html](https://checkmateee.vercel.app/security.html) | Live ML-KEM-768 public key, ciphertext, & HMAC proof inspector |

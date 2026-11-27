@@ -319,7 +319,7 @@ def build_pdf():
     story.append(Paragraph("4. Submission Links & Video Demonstration", h1_style))
     story.append(Paragraph("<b>&bull; GitHub Code Repository:</b> <a href='https://github.com/trivikramkalagi91-commits/CheckMate'>https://github.com/trivikramkalagi91-commits/CheckMate</a>", body_style))
     story.append(Paragraph("<b>&bull; Live Web Management Console:</b> <a href='https://checkmateee.vercel.app/'>https://checkmateee.vercel.app/</a>", body_style))
-    story.append(Paragraph("<b>&bull; 5-Minute Walkthrough Video Link:</b> <i>[Insert your unlisted YouTube or Google Drive walkthrough link here prior to submission]</i>", body_style))
+    story.append(Paragraph("<b>&bull; Video Walkthrough:</b> <a href='https://youtu.be/X4Xo_NdbKZg'>https://youtu.be/X4Xo_NdbKZg</a>", body_style))
 
     doc.build(story)
     
