@@ -1,20 +1,23 @@
 <div align="center">
-  <h1>🛡️ CheckMate</h1>
+  <p align="center">
+    <img src="logo.png" alt="CheckMate Logo" width="260" />
+  </p>
+  <h1>CheckMate</h1>
   <p><strong>Post-Quantum Zero-Trust Access Guard & Sub-Millisecond Revocation Engine</strong></p>
   <p><em>"Trust, but verify &mdash; continuously, cryptographically, and without latency."</em></p>
-  <p>
-    <a href="https://checkmateee.vercel.app"><img src="https://img.shields.io/badge/Live%20Console-checkmateee.vercel.app-000000?style=for-the-badge&logo=vercel" alt="Live Console" /></a>
-    <a href="track4_validate.py"><img src="https://img.shields.io/badge/Track%204%20Validator-PASS%20100%25-brightgreen?style=for-the-badge&logo=checkmarx" alt="Validator" /></a>
-    <a href="track4_service.py"><img src="https://img.shields.io/badge/Post--Quantum-ML--KEM--768%20(Kyber)-blue?style=for-the-badge" alt="NIST PQC" /></a>
-    <a href="threat-model.json"><img src="https://img.shields.io/badge/Threat%20Model-RFC%20Compliant-orange?style=for-the-badge" alt="Threat Model" /></a>
-    <a href="CheckMate_Track4_Project_Brief.pdf"><img src="https://img.shields.io/badge/Project%20Brief-2--Page%20PDF-red?style=for-the-badge" alt="PDF" /></a>
+  <p align="center">
+    <a href="https://checkmateee.vercel.app"><img src="https://img.shields.io/badge/Live%20Console-Vercel-000000?style=for-the-badge&logo=vercel" alt="Live Console" /></a>
+    <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/track4_validate.py"><img src="https://img.shields.io/badge/Track%204%20Validator-PASS%20100%25-22c55e?style=for-the-badge" alt="Validator" /></a>
+    <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/track4_service.py"><img src="https://img.shields.io/badge/Post--Quantum-ML--KEM--768-2563eb?style=for-the-badge" alt="NIST PQC" /></a>
+    <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/threat-model.json"><img src="https://img.shields.io/badge/Threat%20Model-RFC%20Compliant-f97316?style=for-the-badge" alt="Threat Model" /></a>
+    <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/CheckMate_Track4_Project_Brief.pdf"><img src="https://img.shields.io/badge/Project%20Brief-2--Page%20PDF-ef4444?style=for-the-badge" alt="PDF" /></a>
   </p>
   <p>
     <a href="https://checkmateee.vercel.app"><strong>🌐 Live SecOps Console</strong></a> &bull;
     <a href="https://checkmateee.vercel.app/killswitch.html"><strong>⚡ Emergency Killswitch</strong></a> &bull;
     <a href="https://github.com/trivikramkalagi91-commits/CheckMate"><strong>GitHub Repository</strong></a> &bull;
-    <a href="CheckMate_Track4_Project_Brief.pdf"><strong>📄 2-Page Brief PDF</strong></a> &bull;
-    <a href="track4_service.py"><strong>Adapter Contract v1</strong></a>
+    <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/CheckMate_Track4_Project_Brief.pdf"><strong>📄 2-Page Brief PDF</strong></a> &bull;
+    <a href="https://github.com/trivikramkalagi91-commits/CheckMate/blob/main/track4_service.py"><strong>Adapter Contract v1</strong></a>
   </p>
 </div>
 
