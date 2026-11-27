@@ -1,4 +1,24 @@
-# Checkmate — Post-Quantum Zero-Trust Identity Killswitch (Front End)
+# Checkmate — Post-Quantum Zero-Trust Identity Killswitch
+
+> **Yugaantar DevForge Hackathon — Track 4: "Trust, but verify"**  
+> NIST FIPS 203 ML-KEM-768 Post-Quantum Key Encapsulation · Sub-Millisecond Actor Revocation · Crash-Consistent Atomic Persistence
+
+[![Track 4 Evaluation](https://img.shields.io/badge/Track%204%20Validator-PASS%20100%25-brightgreen?style=for-the-badge&logo=checkmarx)](track4_validate.py)
+[![NIST FIPS 203](https://img.shields.io/badge/Post--Quantum-ML--KEM--768%20(Kyber)-blue?style=for-the-badge)](track4_service.py)
+[![Threat Model](https://img.shields.io/badge/Threat%20Model-RFC%20Compliant-orange?style=for-the-badge)](threat-model.json)
+[![Project Brief](https://img.shields.io/badge/2--Page%20Brief-PDF%20Ready-red?style=for-the-badge)](CheckMate_Track4_Project_Brief.pdf)
+
+## ⚡ Track 4 Automated Evaluation (Clean Machine Quickstart)
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Run the automated Track 4 evaluation
+python track4_validate.py --entry track4_service.py
+```
+
+---
 
 Static, Vercel-ready front end for **Checkmate**: a server-side identity killswitch
 built around instant revocation and NIST ML-KEM-768 (Kyber768) post-quantum

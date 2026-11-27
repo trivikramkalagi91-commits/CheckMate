@@ -1,0 +1,18 @@
+﻿{
+  "asset": "protected-resource",
+  "boundary": "identity-check",
+  "threats": [
+    "credential-theft",
+    "stolen-device-access",
+    "harvest-now-decrypt-later",
+    "replay-attacks",
+    "airplane-mode-mdm-bypass"
+  ],
+  "mitigations": [
+    "sub-millisecond-actor-revocation",
+    "post-quantum-ml-kem-768-encapsulation",
+    "challenge-response-hmac-sha256-proofs",
+    "tamper-proof-audit-logging",
+    "atomic-state-persistence"
+  ]
+}
