@@ -1,0 +1,13 @@
+🛡️ Introducing CheckMate — Post-Quantum Zero-Trust Access Guard & Revocation Engine!
+
+Traditional IAM fails when a laptop is stolen: JWT tokens remain valid for 15-60 mins, and thieves disconnect Wi-Fi to evade MDM remote wipes. Furthermore, classical RSA/ECDH keys are vulnerable to 'Harvest Now, Decrypt Later' quantum attacks.
+
+CheckMate solves this:
+⚡ Sub-Millisecond Actor Killswitch (< 0.8 ms)
+🔒 NIST FIPS 203 ML-KEM-768 Post-Quantum Key Encapsulation
+🛡️ RFC 7662 OAuth 2.0 Continuous Server-Side Introspection
+
+Built for Yugaantar DevForge Hackathon (Track 4: 'Trust, but verify').
+
+🌐 Live Console: https://checkmateee.vercel.app
+📦 Code: https://github.com/trivikramkalagi91-commits/CheckMate

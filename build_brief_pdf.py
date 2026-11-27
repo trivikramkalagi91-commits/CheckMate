@@ -133,8 +133,8 @@ def build_pdf():
         body_style
     ))
 
-    # 2. Horizontal Architecture Diagram
-    story.append(Paragraph("2. How Data Flows Through CheckMate (Horizontal Pipeline)", h1_style))
+    # 2. Architecture Diagram
+    story.append(Paragraph("2. How Data Flows Through CheckMate (Security Pipeline)", h1_style))
     if os.path.exists('arch_horizontal.png'):
         story.append(Image('arch_horizontal.png', width=7.5*inch, height=1.31*inch))
     story.append(Spacer(1, 4))
